@@ -1,0 +1,32 @@
+body{
+    background-color: rgb(2, 216, 48);
+}
+
+.img1{
+    border-radius: 100%;
+    margin-left: 200px;
+    margin-right: 200px;
+    width: 1100px;
+    height: 240px;
+}
+.img_sharingan{
+    width: 230px;
+    margin-top: 4px;
+}
+
+table{
+    width: 1500px;
+    margin-left: 5px;
+    border: 5px inset gray;
+    text-align: center;
+}
+
+.str1{
+    width: 200px;
+}
+.str2{
+    width: 650px;
+}
+a{
+    text-decoration: none;
+}
